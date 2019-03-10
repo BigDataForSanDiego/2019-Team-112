@@ -1,28 +1,29 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 112 
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: What the Health    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### We want to create an elderly targeted networking system that will make efforts to combat the loneliness reported to cause Alzheimers. 
+##### Our network will connect elderly people to events in their immediate area and will allow them to meet other people their age who are also trying to find a solution to loneliness. 
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### Public health services dataset (San Diego county HHS) sandiegocounty.gov
+- ##### Live Well San Diego data.livewellsd.org
+- ##### Census Bureau census.gov
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: ewestin
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Emma Westin           |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 02 | Alexa Barnes          |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 03 | Craig Bross         |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Will Tran         |         [X]          |             [ ]             |         [ ]          |                   [X]                     |
+| 05 |  Ese Uyovbievbo    |         [X]          |             [X]             |         [ ]          |                   [X]                     |
+| 06 | Carlos Hernadez     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -31,8 +32,8 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
@@ -51,8 +52,8 @@
 
 **Smart Health**
 - [ ] How can we share useful public health information and web analytical tools for improve public health in San Diego?
-- [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
-- [ ] Your question:
+- [x] What chronic diseases affect San Diegans and how can these conditions be managed daily?
+- [x] Your question: How can we reduce loneliness in the elderly community?
 
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")  
